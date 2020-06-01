@@ -1,5 +1,7 @@
 # GO RabbitMQ Tutorial
 
+[Video](https://youtu.be/pAXp6o-zWS4)
+
 ## RUN
 
 Start the message broker
